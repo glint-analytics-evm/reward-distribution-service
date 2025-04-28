@@ -1,0 +1,5 @@
+{
+  "chainId": "chain id",
+  "rpcUrl": "rpc url to connect chain",
+  "rewardContractAddress": "reward contract address"
+}
